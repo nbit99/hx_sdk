@@ -1,4 +1,4 @@
-package main
+package hx_sdk
 
 import (
 	"fmt"
